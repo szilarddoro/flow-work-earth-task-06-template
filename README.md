@@ -8,4 +8,4 @@
 6. A `termekek` mappában lévő fájlok nevei nem megfelelőek. A fájlok nevei csak bizonyos esetekben tartalmazzák a termékek azonosítóit. A fájlok neveit javítsd ki úgy, hogy a fájlok nevei tartalmazzák a termékek azonosítóit!
 7. Commitold a változtatásaidat.
 8. Pushold fel a változtatásaidat a GitHub-ra. (`git push -u origin product-id-fixes`)
-9. Készíts egy új Pull Request-et a `main` branch-re.
+9. Készíts egy új Pull Request-et a `product-id-fixes` branchről `main` branchre.
