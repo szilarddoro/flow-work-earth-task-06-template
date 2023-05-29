@@ -6,7 +6,7 @@
 
 | Tulajdonság | Érték      |
 | ----------- | ---------- |
-| Azonosító   | 3          |
+| Azonosító   | 2          |
 | Név         | Paradicsom |
 | Szín        | Piros      |
 | Íz          | Édes       |
